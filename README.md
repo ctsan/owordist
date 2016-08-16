@@ -1,4 +1,4 @@
-# Levenshtein Distance in OCaml
+# Edit Distance - Levenshtein Distance in OCaml
 
 ## Description
 
@@ -14,3 +14,7 @@ the **core** library (opam install core).
 then just run
     make 
 
+
+## Possible Extensions
+
+* Make this configurable to support more cost associations
