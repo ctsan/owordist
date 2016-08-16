@@ -9,7 +9,7 @@ let indicator a b =
     if a = b then 0
     else 1
 
-(* Takes two strings, computes their levi distance *)
+(* Takes two strings, computes their leve distance *)
 let dist w1 w2 =
     let ht = H.Poly.create () in
     let sz1 = S.length w1 in
