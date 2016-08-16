@@ -29,7 +29,7 @@ let dist w1 w2 =
                     in min v1 @@ min v2 v3
                 end
             in
-            Hashtbl.set ht ~key:(n1,n2) ~data;
+            H.set ht ~key:(n1,n2) ~data;
             data
         | Some res -> res
     in lev (sz1-1) (sz2-1)
