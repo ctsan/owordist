@@ -1,0 +1,5 @@
+"Rule: ocaml: cmx* & o* -> native (%=dist )": "\213s\012B\208<\153TQ\198\130\230\246\204\1511"
+"Resource: /Users/CrisTsan/git/levidist/dist.ml": "\172H\000Q\170\152\16603D<v]H\238q"
+"Rule: ocaml: ml -> cmo & cmi (%=dist )": "\b\191-\160\250Y}OS\243G\219K):\023"
+"Rule: ocaml dependencies ml (%=dist )": "\t\023wVOU\166>/\134\029\201\236\233\226\136"
+"Rule: ocaml: ml & cmi -> cmx & o (%=dist )": "\161\205\208\144S\187j\006\181\178\176\127\159\252\237%"

@@ -1,0 +1,10 @@
+_build/
+
+# Vim Backup files / OS-specific files
+*.swo
+*.swp
+*.DS_STORE
+
+# executable
+dist
+
